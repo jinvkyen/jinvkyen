@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi developers! I'm @jinvkyen.</h1>
+<h1 align="center">👋 Hello devs! I'm @jinvkyen.</h1>
 <h3 align="center">An aspiring software developer from the Philippines. Currently taking Bachelor of Science in Information Technology at Adamson University.</h3>
 
 - 🔭 I’m currently working on [building my protfolio](https://www.behance.net/ayenjtt)
