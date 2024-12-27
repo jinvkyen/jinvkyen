@@ -41,6 +41,8 @@
 ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-FF61F6?style=flat-square&logo=adobe-xd&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-313131?style=flat-square&logo=unreal-engine&logoColor=white)
+![SketchUp](https://img.shields.io/badge/-SketchUp-005F9E?style=flat-square&logo=sketchup&logoColor=white)
+![Shapr3D](https://img.shields.io/badge/-Shapr3D-FF0000?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+U2hhcHIzRDwvdGl0bGU+PC9zdmc+&logoColor=white)
 
 ## 📊 GitHub Stats
 <div align="center">
