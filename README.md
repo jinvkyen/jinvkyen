@@ -61,5 +61,5 @@
 
 ---
 <div align="center">
-  <i>Happy coding! Feel free to connect with me 😊</i>
+  <i>Be good people! 😊</i>
 </div>
