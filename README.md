@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&random=false&width=435&lines=👋+Hello+there!+I'm+@jinvkyen;🚀+Aspiring+Software+Developer;💻+BSIT+Student+at+Adamson+Universityy" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&random=false&width=435&lines=👋+Hello!+I'm+@jinvkyen;🚀+Aspiring+Software+Developer;💻+BSIT+Student+at+Adamson+Universityy" alt="Typing SVG" />
   
   [![Profile Views](https://komarev.com/ghpvc/?username=jinvkyen&color=2F81F7&style=flat-square)](https://github.com/jinvkyen)
 </div>
