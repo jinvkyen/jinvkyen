@@ -12,6 +12,9 @@
 - 📍 Based in the Philippines 🇵🇭
 
 ## 🛠️ Tech Stack
+<details>
+<summary>Click to expand!</summary>
+
 ### Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
@@ -44,7 +47,8 @@
 ![SketchUp](https://img.shields.io/badge/-SketchUp-005F9E?style=flat-square&logo=sketchup&logoColor=white)
 ![Shapr3D](https://img.shields.io/badge/-Shapr3D-FF0000?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+U2hhcHIzRDwvdGl0bGU+PC9zdmc+&logoColor=white)
 
-## 📊 GitHub Stats
+</details>
+📊 My GitHub Stats hehe
 <div align="center">
   
   [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jinvkyen&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/jinvkyen)
