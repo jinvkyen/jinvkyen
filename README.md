@@ -58,7 +58,7 @@
 
 </details>
 
-📊 My GitHub Stats hehe
+📊 GitHub Stats
 <div align="center">
   
   [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jinvkyen&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/jinvkyen)
