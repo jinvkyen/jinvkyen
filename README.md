@@ -6,8 +6,7 @@ const developer = {
     location: "Philippines",
     currentFocus: ["React", "JavaScript", "Version Control"],
     interests: ["Web Development", "Designing", "Software Quality Testing"],
-    motto: "Turning coffee into code since [your year]"
-};
+    };
 ```
 
 ## 🎯 Main Focus
