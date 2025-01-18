@@ -46,7 +46,17 @@ const developer = {
 ![SketchUp](https://img.shields.io/badge/-SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white)
 
 ## 📊 GitHub Analytics
-<div align="center"> <a href="https://github.com/jinvkyen"> <img src="https://github-readme-stats.vercel.app/api?username=jinvkyen&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" /> </a> <a href="https://github.com/jinvkyen"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jinvkyen&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" /> </a> <a href="https://github.com/jinvkyen"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=jinvkyen&theme=tokyonight&hide_border=true" alt="GitHub Streak" /> </a> </div>
+### 🐍 Contributions Graph
+<div align="center">
+  <img src="https://github.com/jinvkyen/jinvkyen/blob/output/github-contribution-grid-snake.svg" alt="Contribution Graph" />
+</div>
+
+### 📈 Profile Summary
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jinvkyen&theme=tokyonight" alt="GitHub Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jinvkyen&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jinvkyen&theme=tokyonight" alt="Most Commit Language" />
+</div>
 
 ## 🤝 Socials
 <div align="left">
