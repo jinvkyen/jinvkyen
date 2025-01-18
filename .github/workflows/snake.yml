@@ -15,8 +15,6 @@ jobs:
       - name: Generate Snake Graph
         uses: Platane/snk@v2
         with:
-          # GitHub username to generate the snake graph for
-          # Example: myusername
           github_user_name: jinvkyen
           outputs: dist/snake.svg
 
