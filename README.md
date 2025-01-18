@@ -49,14 +49,7 @@ const developer = {
 ![SketchUp](https://img.shields.io/badge/-SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white)
 
 ## 📊 GitHub Analytics
-<div align="center">
-  
-  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jinvkyen&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/jinvkyen)
-  
-  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jinvkyen&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/jinvkyen)
-  
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jinvkyen&theme=tokyonight&hide_border=true)](https://github.com/jinvkyen)
-</div>
+<div align="center"> <a href="https://github.com/jinvkyen"> <img src="https://github-readme-stats.vercel.app/api?username=jinvkyen&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" /> </a> <a href="https://github.com/jinvkyen"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jinvkyen&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" /> </a> <a href="https://github.com/jinvkyen"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=jinvkyen&theme=tokyonight&hide_border=true" alt="GitHub Streak" /> </a> </div>
 
 ## 🤝 Socials
 <div align="left">
