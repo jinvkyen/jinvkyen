@@ -48,7 +48,7 @@ const developer = {
 ## 📊 GitHub Analytics
 ### 🐍 Contributions Graph
 <div align="center">
-  <img src="https://github.com/jinvkyen/jinvkyen/blob/output/github-contribution-grid-snake.svg" alt="Contribution Graph" />
+  <img src="https://github.com/jinvkyen/jinvkyen/blob/main/github-contribution-grid-snake.svg" alt="Contribution Graph" />
 </div>
 
 ### 📈 Profile Summary
