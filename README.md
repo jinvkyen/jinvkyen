@@ -1,10 +1,10 @@
 <div align="center">
-  <img height="200" src="https://media1.tenor.com/m/lWbcKa-SmOIAAAAC/no-way-home-spider-man-no-way-home.gif"  />
+<!--   https://media1.tenor.com/m/tBccMJz1fBAAAAAC/rock-everythingeverywhereallatonce.gif -->
+  <img height="200" src="https://media1.tenor.com/m/zljWJB7ZKi8AAAAd/peter-parker-spiderman.gif"  />
 </div>
 
 ###
-
-<br clear="both">
+<br />
 
 <h3 align="center">hello, I am jin(ky)yen 🦕 from the Philippines.</h3>
 
