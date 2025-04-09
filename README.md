@@ -6,11 +6,7 @@
 ###
 <br />
 
-<h3 align="center">hello, I am jin(ky)yen 🦕 from the Philippines.</h3>
-
-###
-
-<p align="center">aspiring Software Developer.<br>i know nothing, therefore i keep on learning.</p>
+<h3 align="center">hello and welcome to my repositories</h3>
 
 ###
 
