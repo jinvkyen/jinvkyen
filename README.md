@@ -6,7 +6,7 @@
 ###
 <br />
 
-<h3 align="center">hello and welcome to my repositories</h3>
+<h3 align="center">hello! and welcome to my repositories :)</h3>
 
 ###
 
